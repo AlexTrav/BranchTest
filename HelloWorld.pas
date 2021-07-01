@@ -1,4 +1,5 @@
 ﻿program Test; 
 begin
- Write('Добрый день');  
+  Writeln('Добрый день');  
+  Write('Здравствуйте');
 end.
