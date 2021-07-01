@@ -1,4 +1,4 @@
 ﻿program Test; 
 begin
- Write('Всего доброго');  
+ Write('До свидания');  
 end.
